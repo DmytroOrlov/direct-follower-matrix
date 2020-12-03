@@ -1,0 +1,6 @@
+Case ID,Activity,Start,Complete,Classification
+trace_0,Incident logging,2016/01/04 12:09:44.000,2016/01/04 12:09:44.000,
+trace_0,Resolution and recovery,2016/01/05 03:56:44.000,2016/01/05 04:30:44.000,
+trace_0,Incident closure,2016/01/05 04:31:44.000,2016/01/05 04:48:44.000,
+trace_1,Incident logging,2016/01/04 12:26:44.000,2016/01/04 12:35:44.000,
+trace_1,Incident closure,2016/01/04 17:51:44.000,2016/01/04 17:59:44.000,

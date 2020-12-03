@@ -1,0 +1,9 @@
+target/
+/.bsp/
+
+#$ cat ~/.gitconfig
+#[core]
+#    excludesfile = ~/.gitignore
+#$ cat ~/.gitignore
+#.idea/
+#.sbt_completion_cache
